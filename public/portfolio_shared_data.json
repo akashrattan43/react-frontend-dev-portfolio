@@ -55,8 +55,8 @@
         "level": "85"
       },
       {
-        "name": "Vue",
-        "class": "devicon-vuejs-plain",
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
         "level": "65"
       },
       {
@@ -67,6 +67,11 @@
       {
         "name": "Python",
         "class": "devicon-python-plain",
+        "level": "80"
+      },
+      {
+        "name": "Node JS",
+        "class": "devicon-nodejs-plain",
         "level": "80"
       }
     ]
