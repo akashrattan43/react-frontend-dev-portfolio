@@ -48,7 +48,7 @@ class Header extends Component {
     return (
       <header
         id="home"
-        style={{ height: window.innerHeight - 550, display: "block" }}
+        style={{ height: window.innerHeight - 500, display: "block" }}
       >
         <div className="row aligner" style={{ height: "40%" }}>
           <div className="col-md-12">
@@ -70,6 +70,7 @@ class Header extends Component {
                 className="button"
                 style={{
                   display: "block",
+                  fontSize:'16px',
                   textAlign: "center",
                   margin: "0 auto",
                   borderRadius:'10vh',
