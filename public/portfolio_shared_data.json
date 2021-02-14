@@ -14,6 +14,11 @@
         "class": "fab fa-github"
       },
       {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/akashrattan/",
+        "class": "fab fa-linkedin"
+      },
+      {
         "name": "instagram",
         "url": "https://www.instagram.com/akaypool",
         "class": "fab fa-instagram"

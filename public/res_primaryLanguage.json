@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Akash Rattan. I am a full stack developer. I love to code solve problems, build websites, style, and troubleshoot them. When I am not coding I like to go out hike, run, biking, or anything that break a sweat. You can reach me at akashrattan43@gmail.com.",
+    "description": "👋 I'm Akash Rattan. I am a full stack developer. I love to code solve problems, build websites, style, and troubleshoot them. When I am not coding I like to go out hike, run, biking, or anything that break a sweat.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,26 +11,38 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Postify",
+      "startDate": "2021",
+      "description": "A social media like website where you can login and post your thoughts. You can also like, comment, and delete a post. This application was built with React Js fronend, and backend was built with MongoDb database with Graphql and Apollo servers.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
       ],
-      "url": "",
+      "url": "https://eloquent-williams-c20ad6.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node Js"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css"
         }
       ]
     },

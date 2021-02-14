@@ -73,11 +73,10 @@ class Header extends Component {
                   fontSize:'16px',
                   textAlign: "center",
                   margin: "0 auto",
-                  borderRadius:'10vh',
                   marginBottom: "20px"
                   }}
               >
-                Contact me
+                Contact Me
               </button>
               <Switch
                 checked={this.state.checked}

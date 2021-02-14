@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola",
-    "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+    "description": "👋 Soy Akash Rattan. Soy un desarrollador full stack. Me encanta codificar, resolver problemas, crear sitios web, diseñar y solucionar problemas. Cuando no estoy codificando me gusta salir a caminar, correr, andar en bicicleta o cualquier cosa que rompa a sudar.",
     "section_name": {
       "about": "sobre mí",
       "projects": "Proyectos",
@@ -31,7 +31,7 @@
         {
           "class": "devicon-csharp-plain",
           "name": "C#"
-        }
+        } 
       ]
     },
     {
