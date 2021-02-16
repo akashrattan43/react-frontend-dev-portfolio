@@ -61,6 +61,10 @@
           "name": "React"
         },
         {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        },
+        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         },
@@ -71,26 +75,34 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Oiget(Fake News Filter)",
+      "startDate": "2021",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows customizations and filter the news user interested in. This was also my first project in React/Python framework. Also I've worked with the QA team to learn about how users are behaving and make reports accordingly. I also have the responsibility to make API endpoints on trending news and connect it with the fronend.",
       "images": [
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://oigetit.com/breaking",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-python-plain",
+          "name": "Python"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-nodejs-plain",
+          "name": "Node Js"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-google-plain",
+          "name": "Google Firebase"
         }
       ]
     }
