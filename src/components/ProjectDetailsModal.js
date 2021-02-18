@@ -89,7 +89,7 @@ class ProjectDetailsModal extends Component {
                   <i
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
-                  ></i>
+                  >Demo</i>
                 </a>
               ) : null}
             </h3>
